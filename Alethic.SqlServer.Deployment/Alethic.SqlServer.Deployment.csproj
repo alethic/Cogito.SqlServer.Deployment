@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.SqlServer.DACFx" Version="162.1.167" />
     <PackageReference Include="Microsoft.Win32.Registry" Version="5.0.0" />
     <PackageReference Include="System.IO.FileSystem.AccessControl" Version="5.0.0" />
-    <PackageReference Include="System.IO.Packaging" Version="6.0.0" />
+    <PackageReference Include="System.IO.Packaging" Version="6.0.1" />
     <PackageReference Include="System.ServiceProcess.ServiceController" Version="6.0.1" />
   </ItemGroup>
 
